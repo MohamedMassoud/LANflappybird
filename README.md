@@ -5,7 +5,9 @@
 - This game is P2p based approach using UDP broadcast peer finding.
 
 **Waiting room**
+
 ![](Waiting%20room.PNG)
 
 **In Game**
-![](ingame.png)
+
+![](ingame.PNG)
