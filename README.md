@@ -10,4 +10,4 @@
 
 **In Game**
 
-![](ingame.PNG)
+![](ingame2.png
